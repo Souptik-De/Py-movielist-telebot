@@ -1,7 +1,7 @@
 # 🎬 Telegram Movie & TV Show Recommender Bot(@themovielistbot)
 A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. 
-
-***Note: The bot is currently hosted locally. If you want to test,ping me .***
+> [!NOTE]
+> ***The bot is currently hosted locally. If you want to test,ping me .***
 # 🚀 Features
 /start or /help: Get started and view available commands.
 
