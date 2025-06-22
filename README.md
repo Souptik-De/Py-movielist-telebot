@@ -71,4 +71,9 @@ Romance
 Sport
 
 Thriller
+# 📩 Connect
+If you'd like to collaborate, provide suggestions, or deploy this together — feel free to connect!
+
+LinkedIn
+
 
