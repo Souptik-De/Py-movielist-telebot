@@ -1,7 +1,7 @@
 # 🎬 Telegram Movie & TV Show Recommender Bot(@themovielistbot)
 A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. This bot fetches popular titles using the PyMovieDb API and delivers them right to your Telegram chat!
 
-### Note: The bot currently runs locally.
+***Note: The bot is currently hosted locally. If you want to test,ping me .***
 # 🚀 Features
 /start or /help: Get started and view available commands.
 
@@ -12,68 +12,51 @@ A simple Telegram bot built using Python that suggests the most popular Movies o
 Displays top 20 titles with year and IMDb link.
 
 # 🧠 Technologies Used
-Python
+``Python``
 
-pyTelegramBotAPI – Telegram Bot API wrapper
+``pyTelegramBotAPI`` – Telegram Bot API wrapper
 
-PyMovieDb – to fetch movie and TV data
+``PyMovieDb ``– to fetch movie and TV data
 
 # 📸 Screenshots
 ### (Optional: Add screenshots or terminal outputs if available)
+![image](https://github.com/user-attachments/assets/e2e2ed49-f9c9-43b8-8bdd-1947d71e60d0)
 
 # 🔧 Setup Instructions
 ## Clone the repository:
 
-
+```bash
 git clone https://github.com/Souptik-De/Py-movielist-telebot.git
+```
 
 ## Install dependencies:
 
-
-pip install pyTelegramBotAPI  PyMovieDb dotenv
+```bash
+pip install pyTelegramBotAPI PyMovieDb dotenv
+```
 ## Enviourment variable to store bot token
 Create a .env file in the root directory and add your Telegram bot token:
 
-
-BOT_TOKEN=your_telegram_bot_token
-
+````python
+BOT_TOKEN = your_telegram_bot_token
+````
 # 📚 Example Genres Supported
-Action
-
-Adventure
-
-Animation
-
-Biography
-
-Comedy
-
-Crime
-
-Documentary
-
-Drama
-
-Family
-
-Fantasy
-
-Horror
-
-History
-
-Mystery
-
-Music
-
-Romance
-
-Sport
-
-Thriller
+* Action
+* Adventure  
+* Animation  
+* Biography  
+* Comedy  
+* Crime  
+* Fantasy  
+* Horror  
+* Romance  
+* Thriller   
+_And more ..._
 # 📩 Connect
+**Author: Soptik De** :trollface:
+
 If you'd like to collaborate, provide suggestions, or deploy this together — feel free to connect!
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/souptik-de-981092334/)
 
 
