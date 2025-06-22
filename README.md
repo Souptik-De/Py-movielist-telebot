@@ -25,7 +25,7 @@ PyMovieDb – to fetch movie and TV data
 ## Clone the repository:
 
 
-git clone https://github.com/yourusername/telegram-movie-bot.git
+git clone https://github.com/Souptik-De/Py-movielist-telebot.git
 
 ## Install dependencies:
 
