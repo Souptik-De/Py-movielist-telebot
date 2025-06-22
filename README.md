@@ -1,7 +1,7 @@
 # 🎬 Telegram Movie & TV Show Recommender Bot(@themovielistbot)
 A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. 
 > [!NOTE]
-> ***The bot is currently hosted locally. If you want to test,ping me .***
+> ***The bot is currently hosted locally. If you want to test, [ping me](#my-custom-anchor-point).*** 
 # 🚀 Features
 /start or /help: Get started and view available commands.
 
@@ -55,6 +55,7 @@ _And more ..._
 # 📩 Connect
 **Author: Soptik De** :trollface:
 
+<a name="my-custom-anchor-point"></a>
 If you'd like to collaborate, provide suggestions, or deploy this together — feel free to connect!
 
 [LinkedIn](https://www.linkedin.com/in/souptik-de-981092334/)
