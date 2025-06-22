@@ -1,7 +1,7 @@
-# 🎬 Telegram Movie & TV Show Recommender Bot
-A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. This bot fetches popular titles using the PyMovieDb API and delivers them right to your Telegram chat!
-
-
+# 🎬 Telegram Movie & TV Show Recommender Bot(@themovielistbot)
+A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. 
+> [!NOTE]
+> ***The bot is currently hosted locally. If you want to test, [ping me](#my-custom-anchor-point).*** 
 # 🚀 Features
 /start or /help: Get started and view available commands.
 
@@ -12,66 +12,52 @@ A simple Telegram bot built using Python that suggests the most popular Movies o
 Displays top 20 titles with year and IMDb link.
 
 # 🧠 Technologies Used
-Python
+``Python``
 
-pyTelegramBotAPI – Telegram Bot API wrapper
+``pyTelegramBotAPI`` – Telegram Bot API wrapper
 
-PyMovieDb – to fetch movie and TV data
+``PyMovieDb ``– to fetch movie and TV data
 
 # 📸 Screenshots
-(Optional: Add screenshots or terminal outputs if available)
+
+![image](https://github.com/user-attachments/assets/e2e2ed49-f9c9-43b8-8bdd-1947d71e60d0)
 
 # 🔧 Setup Instructions
-Clone the repository:
+## Clone the repository:
 
+```bash
+git clone https://github.com/Souptik-De/Py-movielist-telebot.git
+```
 
-git clone https://github.com/yourusername/telegram-movie-bot.git
-cd telegram-movie-bot
-Install dependencies:
+## Install dependencies:
 
-
-pip install python-telegram-bot PyMovieDb python-dotenv
+```bash
+pip install pyTelegramBotAPI PyMovieDb dotenv
+```
+## Enviourment variable to store bot token
 Create a .env file in the root directory and add your Telegram bot token:
 
-
-BOT_TOKEN=your_telegram_bot_token
-Run the bot:
-python bot.py
-
-Note: The bot currently runs locally. Hosting on a cloud platform (e.g., Heroku, Render, or PythonAnywhere) is a future enhancement.
-
+````python
+BOT_TOKEN = your_telegram_bot_token
+````
 # 📚 Example Genres Supported
-Action
+* Action
+* Adventure  
+* Animation  
+* Biography  
+* Comedy  
+* Crime  
+* Fantasy  
+* Horror  
+* Romance  
+* Thriller   
+_And more ..._
+# 📩 Connect
+**Author: Soptik De** :trollface:
 
-Adventure
+<a name="my-custom-anchor-point"></a>
+If you'd like to collaborate, provide suggestions, or deploy this together — feel free to connect!
 
-Animation
+[LinkedIn](https://www.linkedin.com/in/souptik-de-981092334/)
 
-Biography
-
-Comedy
-
-Crime
-
-Documentary
-
-Drama
-
-Family
-
-Fantasy
-
-Horror
-
-History
-
-Mystery
-
-Music
-
-Romance
-
-Sport
-
-Thriller
 
