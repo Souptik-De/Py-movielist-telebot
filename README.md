@@ -1,7 +1,7 @@
-# 🎬 Telegram Movie & TV Show Recommender Bot
+# 🎬 Telegram Movie & TV Show Recommender Bot(@themovielistbot)
 A simple Telegram bot built using Python that suggests the most popular Movies or TV shows based on your preferred genre. This bot fetches popular titles using the PyMovieDb API and delivers them right to your Telegram chat!
 
-
+### Note: The bot currently runs locally.
 # 🚀 Features
 /start or /help: Get started and view available commands.
 
@@ -19,26 +19,23 @@ pyTelegramBotAPI – Telegram Bot API wrapper
 PyMovieDb – to fetch movie and TV data
 
 # 📸 Screenshots
-(Optional: Add screenshots or terminal outputs if available)
+### (Optional: Add screenshots or terminal outputs if available)
 
 # 🔧 Setup Instructions
-Clone the repository:
+## Clone the repository:
 
 
 git clone https://github.com/yourusername/telegram-movie-bot.git
-cd telegram-movie-bot
-Install dependencies:
+
+## Install dependencies:
 
 
-pip install python-telegram-bot PyMovieDb python-dotenv
+pip install pyTelegramBotAPI  PyMovieDb dotenv
+## Enviourment variable to store bot token
 Create a .env file in the root directory and add your Telegram bot token:
 
 
 BOT_TOKEN=your_telegram_bot_token
-Run the bot:
-python bot.py
-
-Note: The bot currently runs locally. Hosting on a cloud platform (e.g., Heroku, Render, or PythonAnywhere) is a future enhancement.
 
 # 📚 Example Genres Supported
 Action
