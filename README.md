@@ -32,7 +32,7 @@ git clone https://github.com/Souptik-De/Py-movielist-telebot.git
 ## Install dependencies:
 
 ```bash
-pip install pyTelegramBotAPI PyMovieDb dotenv
+pip install pyTelegramBotAPI PyMovieDb dotenv lxml_html_clean
 ```
 ## Enviourment variable to store bot token
 Create a .env file in the root directory and add your Telegram bot token:
