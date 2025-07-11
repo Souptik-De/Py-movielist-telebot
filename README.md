@@ -3,11 +3,11 @@ A simple Telegram bot built using Python that suggests the most popular Movies o
 > [!NOTE]
 > ***The bot is currently hosted locally. If you want to test, [ping me](#my-custom-anchor-point).*** 
 # 🚀 Features
-/start or /help: Get started and view available commands.
+``/start``or ``/help``: Get started and view available commands.
 
-/movies: Enter a genre to get top popular movies.
+``/movies``: Enter a genre to get top popular movies.
 
-/tv: Enter a genre to get top popular TV shows.
+``/tv``: Enter a genre to get top popular TV shows.
 
 Displays top 20 titles with year and IMDb link.
 
