@@ -51,7 +51,7 @@ BOT_TOKEN = your_telegram_bot_token
 * Horror  
 * Romance  
 * Thriller   
-_And more ..._
+*And more ...*
 # 📩 Connect
 **Author: Soptik De** :trollface:
 
