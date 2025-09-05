@@ -53,7 +53,7 @@ BOT_TOKEN = your_telegram_bot_token
 * Thriller   
 *And more ...*
 # 📩 Connect
-**Author: Soptik De** :trollface:
+**Author: Soptik De** 
 
 <a name="my-custom-anchor-point"></a>
 If you'd like to collaborate, provide suggestions, or deploy this together — feel free to connect!
